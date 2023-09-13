@@ -6,3 +6,4 @@ Proyecto en el cual aprendemos a jalar un archivo que se envió de otra persona 
 
 #Lo nuevo a incorporar:
 1.Rama de pruebas.
+2.cambio para aprobar en rama master.
